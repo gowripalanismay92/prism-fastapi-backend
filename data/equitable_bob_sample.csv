@@ -1,0 +1,16 @@
+Advisor ID,Client Name (Fictional),Client ID (Sample),Policy / Account ID (Sample),Product Type,Status,Issue / Open Date,Premium Mode,Annual Premium (USD),Face Amount (USD),AUM / Account Value (USD),Client State,Next Review Date
+GP00334146,Jordan Avery,CL-0001,EQ-SAMPLE-10001,Life Insurance,In Force,2021-04-15,Annual,2400,250000,0,NY,2026-12-15
+GP00334146,Morgan Ellis,CL-0002,EQ-SAMPLE-10002,Variable Annuity,In Force,2019-09-03,N/A,0,0,185000,NJ,2027-01-10
+ADV-1002,Casey Brooks,CL-0003,EQ-SAMPLE-10003,Life Insurance,In Force,2020-02-20,Monthly,1800,500000,0,CT,2026-11-30
+ADV-1002,Riley Morgan,CL-0004,EQ-SAMPLE-10004,Retirement / Annuity,Pending,2026-10-22,N/A,0,0,95000,MA,2027-02-01
+ADV-1003,Taylor Quinn,CL-0005,EQ-SAMPLE-10005,Life Insurance,In Force,2018-06-11,Quarterly,3200,750000,0,PA,2026-12-05
+GP00334146,Jamie Parker,CL-0006,EQ-SAMPLE-10006,Investment Advisory,In Force,2022-01-07,N/A,0,0,425000,NY,2027-01-20
+ADV-1003,Alex Rivera,CL-0007,EQ-SAMPLE-10007,Life Insurance,Lapsed,2017-03-28,Annual,1500,200000,0,FL,2026-11-25
+ADV-1002,Drew Bennett,CL-0008,EQ-SAMPLE-10008,Variable Annuity,In Force,2023-08-14,N/A,0,0,310000,CA,2027-03-15
+GP00334146,Cameron Lee,CL-0009,EQ-SAMPLE-10009,Life Insurance,In Force,2024-05-09,Monthly,960,150000,0,TX,2026-12-20
+ADV-1003,Skyler Reed,CL-0010,EQ-SAMPLE-10010,Retirement / Annuity,In Force,2020-11-02,N/A,0,0,275000,IL,2027-02-18
+ADV-1002,Harper James,CL-0011,EQ-SAMPLE-10011,Life Insurance,Pending,2026-09-30,Annual,2100,400000,0,OH,2027-01-05
+GP00334146,Finley Scott,CL-0012,EQ-SAMPLE-10012,Investment Advisory,In Force,2021-12-01,N/A,0,0,610000,VA,2027-03-01
+ADV-1003,Emerson Gray,CL-0013,EQ-SAMPLE-10013,Life Insurance,In Force,2016-07-19,Annual,2800,1000000,0,NC,2026-12-12
+ADV-1002,Peyton Blake,CL-0014,EQ-SAMPLE-10014,Variable Annuity,In Force,2022-04-26,N/A,0,0,145000,GA,2027-01-28
+GP00334146,Rowan Hayes,CL-0015,EQ-SAMPLE-10015,Life Insurance,In Force,2019-02-13,Semi-Annual,3600,600000,0,CO,2027-02-12
